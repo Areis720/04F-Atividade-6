@@ -1,0 +1,293 @@
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\libman.json
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.exe
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.deps.json
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.runtimeconfig.json
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.pdb
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.csproj.AssemblyReference.cache
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.AssemblyInfoInputs.cache
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.AssemblyInfo.cs
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.ExoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ExoApi.props
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExoApi.props
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExoApi.props
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\scopedcss\bundle\ExoApi.styles.css
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.csproj.Up2Date
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\refint\ExoApi.dll
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.pdb
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.genruntimeconfig.cache
+C:\Users\Augusto\Documents\ExoApi\ExoApi\obj\Debug\net7.0\ref\ExoApi.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\appsettings.json
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\libman.json
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.exe
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.deps.json
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.runtimeconfig.json
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.pdb
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.csproj.AssemblyReference.cache
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.AssemblyInfoInputs.cache
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.AssemblyInfo.cs
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.csproj.CoreCompileInputs.cache
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.sourcelink.json
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.ExoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ExoApi.props
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExoApi.props
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExoApi.props
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\scopedcss\bundle\ExoApi.styles.css
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.csproj.Up2Date
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\refint\ExoApi.dll
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.pdb
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.genruntimeconfig.cache
+C:\Git\04DAtividade4-Criar-CRUD\04d-Atividade 4\ExoApi\ExoApi\obj\Debug\net7.0\ref\ExoApi.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\appsettings.json
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\libman.json
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.exe
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.deps.json
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.runtimeconfig.json
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.pdb
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.csproj.AssemblyReference.cache
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.AssemblyInfoInputs.cache
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.AssemblyInfo.cs
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.csproj.CoreCompileInputs.cache
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.sourcelink.json
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.ExoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ExoApi.props
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExoApi.props
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExoApi.props
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\scopedcss\bundle\ExoApi.styles.css
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.csproj.Up2Date
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\refint\ExoApi.dll
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.pdb
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.genruntimeconfig.cache
+C:\Git\04e-Atividade-5\ExoApi\ExoApi\obj\Debug\net7.0\ref\ExoApi.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\appsettings.json
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\libman.json
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.exe
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.deps.json
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.runtimeconfig.json
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.pdb
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.csproj.AssemblyReference.cache
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.AssemblyInfoInputs.cache
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.AssemblyInfo.cs
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.csproj.CoreCompileInputs.cache
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.ExoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ExoApi.props
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExoApi.props
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExoApi.props
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\scopedcss\bundle\ExoApi.styles.css
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.csproj.Up2Date
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.dll
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\refint\ExoApi.dll
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.pdb
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.genruntimeconfig.cache
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\ref\ExoApi.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Git\ExoApi\ExoApi\bin\Debug\net7.0\ExoApi.xml
+C:\Git\ExoApi\ExoApi\obj\Debug\net7.0\ExoApi.xml

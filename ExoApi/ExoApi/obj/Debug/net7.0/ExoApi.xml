@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExoApi</name>
+    </assembly>
+    <members>
+        <member name="M:ExoApi.Controllers.UsuariosController.FazerLogin(ExoApi.Domains.Usuario)">
+            <summary>
+            Faz Login
+            </summary>
+            {
+                "email": "augusto@gmail.com",
+                "senha": "1234"
+            }
+            <param name="usuario">Email e senha do usuario</param>
+            <returns>Token de autenticação</returns>
+            <response code="200">Token gerado</response>
+            <response code="401">Email e senha incorretos</response>
+        </member>
+    </members>
+</doc>
